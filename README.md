@@ -5,7 +5,6 @@
 - 📫 How to reach me: 54alpersaid@gmail.com
 - 💼 **Organization:** [NETTSI](https://www.nettsi.com/)
 - 🌆 **City:** Istanbul
-- 🇹🇷 **Country:** Turkey
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
 
