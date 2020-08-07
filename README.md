@@ -1,11 +1,11 @@
 # Hi 👋, I'm Alper Soylu
 
 - 💻 I'm a software engineer
-- 🔭 I'm currently working on *C++*
+- 🔭 I'm currently working on **C++**
 - 📫 How to reach me: 54alpersaid@gmail.com
-- 💼 *Organization:* [NETTSI](https://www.nettsi.com/)
-- 🌆 *City:* Istanbul
-- 🇹🇷 *Country:* Turkey
+- 💼 **Organization:** [NETTSI](https://www.nettsi.com/)
+- 🌆 **City:** Istanbul
+- 🇹🇷 **Country:** Turkey
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
 
