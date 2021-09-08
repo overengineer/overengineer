@@ -3,7 +3,7 @@
 - 💻 I'm a software engineer
 - 🔭 I'm currently working on **C++**
 - 📫 **Contact me at:** 54alpersaid@gmail.com
-- 💼 **Organization:** [NETTSI](https://www.nettsi.com/)
+- 💼 **Organization:** Siemens
 - 🌆 **City:** Istanbul
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
