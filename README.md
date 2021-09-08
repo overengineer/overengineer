@@ -1,7 +1,7 @@
 # Hi 👋, I'm Alper Soylu
 
 - 💻 I'm a software engineer
-- 🔭 I'm currently working on **C++**
+- 🔭 I'm currently working with **C++**
 - 📫 **Contact me at:** 54alpersaid@gmail.com
 - 💼 **Organization:** Siemens
 - 🌆 **City:** Istanbul
