@@ -17,7 +17,7 @@
 
 <p>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </span>
 
 <span align="center">
 <a href="https://linkedin.com/in/alpersaidsoylu" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="alpersaidsoylu" height="30" width="30" /></a>
