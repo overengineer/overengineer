@@ -16,13 +16,16 @@
 </p>
 
 <p>
-  
-<span> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </span>
-
 <span>
+<span> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </span>
+<span/>
+<span>
+  <span>
 <a href="https://linkedin.com/in/alpersaidsoylu" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="alpersaidsoylu" height="30" width="30" /></a>
 </span>
 <span>
 <a href="https://medium.com/@asoylu" target="blank"><img align="center" src="https://img.icons8.com/nolan/48/medium-new.png" alt="@asoylu" height="30" width="30" /></a>
 </span>
+  
+  </span>
 </p>
