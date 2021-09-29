@@ -5,17 +5,6 @@
 - 📫 **Contact me at:** 54alpersaid@gmail.com
 - 💼 **Organization:** Siemens
 - 🌆 **City:** Istanbul
----
-<p>
-<span align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html&theme=github_dark&hide_border=true" height=180 width=400/>
-</span>
-<span align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=overengineer&layout=compact&show_icons=true&theme=github_dark&hide_border=true" height=180 width=400/>
-</span>
-</p>
-
----
 
 <p>
 <span>
@@ -30,4 +19,16 @@
 </span>
   
   </span>
+</p>
+
+
+---
+
+<p>
+<span align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html&theme=github_dark&hide_border=true" height=180 width=400/>
+</span>
+<span align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=overengineer&layout=compact&show_icons=true&theme=github_dark&hide_border=true" height=180 width=400/>
+</span>
 </p>
