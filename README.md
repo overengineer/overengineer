@@ -6,8 +6,6 @@
 - 💼 **Organization:** Siemens
 - 🌆 **City:** Istanbul
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
-
 <p>
 <span align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html&theme=github_dark&hide_border=true" height=180 width=400/>
@@ -18,7 +16,10 @@
 </p>
 
 <p>
-<span align="left">
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
+
+<span align="center">
 <a href="https://linkedin.com/in/alpersaidsoylu" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="alpersaidsoylu" height="30" width="30" /></a>
 </span>
 <span align="right">
