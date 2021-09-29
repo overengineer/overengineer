@@ -6,14 +6,22 @@
 - 💼 **Organization:** Siemens
 - 🌆 **City:** Istanbul
 
-<img align="left" src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html&theme=cobalt"/>
-<img align="center"src="https://github-readme-stats.vercel.app/api?username=overengineer&layout=compact&show_icons=true&theme=cobalt"/>
-
-
-<a align="center" href="https://linkedin.com/in/alpersaidsoylu" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="alpersaidsoylu" height="30" width="30" /></a>
-
+<p>
+<span align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html&theme=github_dark&hide_border=true" height=180 width=400/>
+</span>
 <span align="right">
-<a align="center" href="https://medium.com/@asoylu" target="blank"><img align="center" src="https://img.icons8.com/nolan/48/medium-new.png" alt="@asoylu" height="30" width="30" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=overengineer&layout=compact&show_icons=true&theme=github_dark&hide_border=true" height=180 width=400/>
+</span>
+</p>
 
+<p>
+<span align="left">
+<a href="https://linkedin.com/in/alpersaidsoylu" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="alpersaidsoylu" height="30" width="30" /></a>
+</span>
+<span align="right">
+<a href="https://medium.com/@asoylu" target="blank"><img align="center" src="https://img.icons8.com/nolan/48/medium-new.png" alt="@asoylu" height="30" width="30" /></a>
+</span>
+</p>
