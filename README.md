@@ -10,10 +10,10 @@
 
 <p>
 <span align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html" height=150/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html" height=200/>
 </span>
 <span align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=overengineer&show_icons=true" height=150/>
+<img src="https://github-readme-stats.vercel.app/api?username=overengineer&show_icons=true" height=200/>
 </span>
 </p>
 
