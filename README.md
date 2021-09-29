@@ -8,9 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html" alt="overengineer" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=overengineer&show_icons=true" alt="overengineer" />
+<p>
+<span align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html"/>
+</span>
+<span align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=overengineer&show_icons=true"/>
+</span>
+</p>
 
 <p>
 <span align="left">
