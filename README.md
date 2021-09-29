@@ -17,7 +17,7 @@
 
 <p>
 <span>
-<span> <img align=center src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" height="30" /> </span>
+<span> <img align=center src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </span>
 <span/>
 <span>
   <span>
