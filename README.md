@@ -20,9 +20,7 @@
 </p>
 
 <p>
-<span>
-<span> <img align=center src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </span>
-<span/>
+
 <span>
   <span>
 <a href="https://linkedin.com/in/alpersaidsoylu" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="alpersaidsoylu" height="30" width="30" /></a>
@@ -32,5 +30,8 @@
 </span>
   
   </span>
+  <span>
+<span> <img align=center src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </span>
+<span/>
 </p>
 
