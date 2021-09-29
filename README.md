@@ -8,12 +8,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overengineer" alt="overengineer" /> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<p>
+<span align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overengineer&layout=compact&hide=html" height=180 width=400/>
+</span>
+<span align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=overengineer&layout=compact&show_icons=true" height=180 width=400/>
+</span>
+</p>
 
 <p>
 <span align="left">
