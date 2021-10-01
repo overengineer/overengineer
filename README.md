@@ -37,7 +37,7 @@
 
  <!-- <img src="https://735730.smushcdn.com/1022758/wp-content/uploads/2020/10/Office-Spaces-Scene-is-Iconic-for-Destroying-the-Office-Printer.gif?lossy=1&strip=1&webp=1"/>
 
-```
+```raw
                            ▂▂▁▁▂▂▂▂                     ▘ ▘ ▘▘▘▘
                        ▗▅▆██████████▆▄▂                      ▘ ▘
                    ▂▃▅▇█████████████████▙▂                    ▘ 
