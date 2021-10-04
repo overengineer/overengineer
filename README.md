@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/CleanEnergeticBarracuda-max-1mb.gif"/>
+<img src="https://memegenerator.net/img/instances/63347363.jpg"/>
 
 <p>
 <span align="left">
