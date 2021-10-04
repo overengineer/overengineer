@@ -1,12 +1,4 @@
-# Hi 👋, I'm Alper Soylu
-
-💻 I'm a software engineer
-🔭 I'm currently working with **C++**
-📫 **Contact me at:** 54alpersaid@gmail.com
-💼 **Organization:** Siemens
-🌆 **City:** Istanbul
-
-
+<iframe src='https://gfycat.com/ifr/CleanEnergeticBarracuda' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 
 ---
 
