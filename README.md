@@ -1,4 +1,4 @@
-<img src="https://memegenerator.net/img/instances/63347363.jpg" align="center" width=700/>
+<span  align="center"> <img src="https://memegenerator.net/img/instances/63347363.jpg" width=700/> </span>
 
 <p>
 <span align="left">
