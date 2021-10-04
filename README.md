@@ -1,5 +1,4 @@
 <img src="https://thumbs.gfycat.com/CleanEnergeticBarracuda-max-1mb.gif"/>
----
 
 <p>
 <span align="left">
