@@ -1,5 +1,4 @@
-<iframe src='https://gfycat.com/ifr/CleanEnergeticBarracuda' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
-
+<img src="https://thumbs.gfycat.com/CleanEnergeticBarracuda-max-1mb.gif"/>
 ---
 
 <p>
