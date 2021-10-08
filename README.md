@@ -1,4 +1,4 @@
-<img src="matrix.png" width=750/> 
+<img src="matrix.jpg" width=750/> 
 
 <p>
 <span align="left">
